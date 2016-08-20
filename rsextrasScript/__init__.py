@@ -1,3 +1,3 @@
-__all__ = ["vector", "surface"]
+__all__ = ["pointvector", "surface"]
 
-import vector, surface
+import pointvector, surface
